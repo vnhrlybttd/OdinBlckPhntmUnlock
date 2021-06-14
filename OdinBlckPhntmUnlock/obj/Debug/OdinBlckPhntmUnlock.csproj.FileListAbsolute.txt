@@ -1,0 +1,12 @@
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\OdinBlckPhntmUnlock.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\OdinBlckPhntmUnlock.pdb
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\0Harmony.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\assembly_valheim.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\BepInEx.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\bin\Debug\UnityEngine.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\obj\Debug\OdinBlckPhntmUnlock.csprojAssemblyReference.cache
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\obj\Debug\OdinBlckPhntmUnlock.csproj.CoreCompileInputs.cache
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\obj\Debug\OdinBlckPhntmUnlock.csproj.CopyComplete
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\obj\Debug\OdinBlckPhntmUnlock.dll
+C:\Users\vbatt\source\repos\OdinBlckPhntmUnlock\OdinBlckPhntmUnlock\obj\Debug\OdinBlckPhntmUnlock.pdb
